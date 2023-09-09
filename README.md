@@ -12,7 +12,7 @@
 
 ---
 
-<div align = cente>
+<div align = center>
 
 ![](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)
 
