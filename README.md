@@ -2,11 +2,15 @@
 
 # :clipboard: Get_Next_Line | 42 SP
 
+![Static Badge](https://img.shields.io/badge/GET_NEXT_LINE--blue)
 ![42 São Paulo](https://img.shields.io/badge/42-SP-1E2952)
-![License](https://img.shields.io/github/license/mendes-jv/libft?color=dark-green)
-![Code size in bytes](https://img.shields.io/github/languages/code-size/mendes-jv/libft?color=dark-green)
-![Top language](https://img.shields.io/github/languages/top/mendes-jv/libft?color=dark-green)
-![Last commit](https://img.shields.io/github/last-commit/mendes-jv/libft?color=dark-green)
+![License](https://img.shields.io/github/license/RogerioLS/Get_Next_Line-42sp?color=dark-green)
+![Code size in bytes](https://img.shields.io/github/languages/code-size/RogerioLS/Get_Next_Line-42sp?color=dark-green)
+![Top language](https://img.shields.io/github/languages/top/RogerioLS/Get_Next_Line-42sp?color=dark-green)
+![Last commit](https://img.shields.io/github/last-commit/RogerioLS/Get_Next_Line-42sp?color=dark-green)
+![Repo size](https://img.shields.io/github/repo-size/RogerioLS/Get_Next_Line-42sp)
+![Languages](https://img.shields.io/github/languages/count/RogerioLS/Get_Next_Line-42sp?color=red
+)
 
 </div>
 
