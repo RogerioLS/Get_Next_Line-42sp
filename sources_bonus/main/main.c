@@ -6,7 +6,7 @@
 /*   By: roglopes <roglopes@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/22 20:27:31 by roglopes          #+#    #+#             */
-/*   Updated: 2023/10/01 19:05:21 by roglopes         ###   ########.fr       */
+/*   Updated: 2023/11/26 17:39:14 by roglopes         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -52,6 +52,21 @@ static size_t	ft_strlen(const char *str)
 	return (count);
 }
 
+int	ft_arguments(int argc)
+{
+	if (argc >= 1 && argc <= 3)
+	{
+		write(1, "File name missing.\n", \
+		ft_strlen("File name missing.\n"));
+	}
+	if (argc > 4)
+	{
+		write(1, "Too many arguments.\n", \
+		ft_strlen("Too many arguments.\n"));
+	}
+	return (0);
+}
+
 int	main(int argc, char *argv[])
 {
 	int		fd;
@@ -59,12 +74,7 @@ int	main(int argc, char *argv[])
 	int		index;
 	char	*gnl;
 
-	if (argc >= 1 && argc <= 3)
-		return (write(1, "File name missing.\n", \
-		ft_strlen("File name missing.\n")));
-	if (argc > 4)
-		return (write(1, "Too many arguments.\n", \
-		ft_strlen("Too many arguments.\n")));
+	ft_arguments(argc);
 	fd = open(argv[1], O_RDONLY);
 	fd_two = open(argv[2], O_RDONLY);
 	index = ft_atoi(argv[3]);

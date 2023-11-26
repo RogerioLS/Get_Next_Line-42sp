@@ -6,11 +6,11 @@
 /*   By: roglopes <roglopes@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/22 18:54:12 by roglopes          #+#    #+#             */
-/*   Updated: 2023/09/05 21:58:53 by roglopes         ###   ########.fr       */
+/*   Updated: 2023/11/26 18:04:40 by roglopes         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line_bonus.h"
+#include "./includes/get_next_line_bonus.h"
 
 static void	ft_free_ptr(char **ptr)
 {

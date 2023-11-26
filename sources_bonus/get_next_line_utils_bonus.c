@@ -6,11 +6,11 @@
 /*   By: roglopes <roglopes@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/22 18:54:04 by roglopes          #+#    #+#             */
-/*   Updated: 2023/09/02 21:32:36 by roglopes         ###   ########.fr       */
+/*   Updated: 2023/11/26 18:04:59 by roglopes         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line_bonus.h"
+#include "./includes/get_next_line_bonus.h"
 
 size_t	ft_strlen(const char *argument)
 {
