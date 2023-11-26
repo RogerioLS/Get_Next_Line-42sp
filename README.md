@@ -3,7 +3,7 @@
 # :clipboard: Get_Next_Line | 42 SP
 
 [![Norminette and Build](https://github.com/RogerioLS/Get_Next_Line-42sp/actions/workflows/main.yml/badge.svg)](https://github.com/RogerioLS/Get_Next_Line-42sp/actions/workflows/main.yml)
-![Static Badge](https://img.shields.io/badge/GET_NEXT_LINE--blue)
+![Static Badge](https://img.shields.io/badge/GET_NEXT_LINE-42-blue)
 ![42 São Paulo](https://img.shields.io/badge/42-SP-1E2952)
 ![License](https://img.shields.io/github/license/RogerioLS/Get_Next_Line-42sp?color=dark-green)
 ![Code size in bytes](https://img.shields.io/github/languages/code-size/RogerioLS/Get_Next_Line-42sp?color=dark-green)
