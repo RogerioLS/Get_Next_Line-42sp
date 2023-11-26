@@ -2,6 +2,7 @@
 
 # :clipboard: Get_Next_Line | 42 SP
 
+[![Norminette and Build](https://github.com/RogerioLS/Get_Next_Line-42sp/actions/workflows/main.yml/badge.svg)](https://github.com/RogerioLS/Get_Next_Line-42sp/actions/workflows/main.yml)
 ![Static Badge](https://img.shields.io/badge/GET_NEXT_LINE--blue)
 ![42 São Paulo](https://img.shields.io/badge/42-SP-1E2952)
 ![License](https://img.shields.io/github/license/RogerioLS/Get_Next_Line-42sp?color=dark-green)
@@ -11,7 +12,7 @@
 ![Repo size](https://img.shields.io/github/repo-size/RogerioLS/Get_Next_Line-42sp)
 ![Languages](https://img.shields.io/github/languages/count/RogerioLS/Get_Next_Line-42sp?color=red
 )
-
+![Discord](https://img.shields.io/discord/1114673462859006044?label=testemunhas%20de%20vim&color=ffbe3a)
 </div>
 
 ---
@@ -48,7 +49,7 @@ The same function but the challenge is dealing with multiple file descriptors!
 In order to use this function in your project, you must download this repository into your pc 
 
 ``` shell
-$> git clone https://github.com/NataliMRocha/Get_Next_Line.git
+$> git clone https://github.com/RogerioLS/Get_Next_Line-42sp
 ```
 Modify the path of the .txt file to one file of your preference in the main.
 
